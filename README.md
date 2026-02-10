@@ -8,7 +8,7 @@ Make sure you have git and Docker desktop installed.
 ### Installation
 #### 1.Clone/git pull the repo into any local directory
 ```
-git clone 
+git clone  https://github.com/CinmenChan/Creating-Components-Based-on-Dialogue.git
 ```  
 #### Open the terminal in this directory and run
 
@@ -20,4 +20,5 @@ docker-compose build
 ```
 docker-compose up -d
 ```
+
 
